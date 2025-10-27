@@ -12,7 +12,7 @@ apiVersion: v2
 appVersion: 2.4.65
 dependencies:
 - name: common
-  repository: https://registry.cloudless.no/api/packages/bitnamicharts/helm
+  repository: https://github.com/kimdane/test-apache
   tags:
   - bitnami-common
   version: x.x.x
